@@ -5,10 +5,10 @@ User is able to create new units based on the gold he has, and units fight each 
 
 Next Tasks:
 
-* Add 2 new units
+
 * Add hero special attack
 * Implement random power-ups in the field
-* Camera movement
+* Change Camera movement
 * Generate Random name for the Units 
 * Add Sounds effects (Unit movement, Unit attack, Unit death, Background music, Unit Generation)
 
